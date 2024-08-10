@@ -42,7 +42,7 @@ Dataset: Ensure you have access to the Excel file used for the analysis.
 Download the Project Files: Clone the repository to your local machine using:
 bash 
 Copy code
-git clone https://github.com/yourusername/car-sales-dashboard.git
+git clone https://github.com/SATAN07/car-sales-dashboard.git
 Open in Tableau: Launch Tableau and open the .twb or .twbx file to explore the dashboard.
 # Usage
 Interactive Exploration: Utilize Tableau's interactive features to filter, sort, and drill down into the data.
